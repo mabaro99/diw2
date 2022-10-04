@@ -1,3 +1,93 @@
 body {
-    background-color: #5af1bf;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    
+}
+body.ejer2 {
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    background-color: #d1d102;
+}
+header {
+    text-align: center;
+    color: #ffffff;
+    background-color: #05be05;
+}
+p.e2 {
+    font-size: 3vh;
+    color: #ffffff;
+}
+p.ejer3 {
+    text-align: center;
+}
+p.ejer3:nth-child(even) {
+    color: #5353f7;
+}
+p.ejer3:nth-child(odd) {
+    color: #800080;
+}
+p.e41 {
+    font-weight: bold;
+}
+p.e42 {
+    font-style: oblique;
+}
+p.e43 {
+    text-decoration: underline;
+}
+p.e44 {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+p.e45 {
+    font-style: oblique;
+    font-size: 1.5em;
+}
+p.e46 {
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+p.e47 {
+    font-weight: bold;
+    color: #ff0000;
+}
+p.e48 {
+    font-style: oblique;
+    color: #ff0000;
+}
+p.e49 {
+    text-decoration: underline;
+    color: #ff0000;
+}
+p.e410 {
+    font-weight: bold;
+    font-style: oblique;
+    color: #0000ff;
+    font-size: 2em;
+}
+p.e411 {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #0000ff;
+    font-size: 2em;
+}
+p.e412 {
+    font-style: oblique;
+    text-decoration: underline;
+    color: #0000ff;
+    font-size: 2em;
+}
+p.e413 {
+    font-weight: bold;
+    font-style: oblique;
+    text-decoration: underline;
+    color: #0000ff;
+    font-size: 2em;
+}
+p.e5 {
+    text-align: center;
+}
+p.index {
+    text-align: center;
+}
+a {
+    text-decoration: none;
 }
